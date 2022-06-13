@@ -4,7 +4,7 @@
 
 - 🌱 Cutivating many hours for skills because of 2 security; 
   1. Cybersecurity 
-  2. Living Security (Roof, Food, Bill, ETC)
+  2. Living Security (Roof, Food, Bills, Survive stuffs)
   
 - 💞️ I’m not looking to collaborate yet, my skills need to asscend to industry standard.
  
