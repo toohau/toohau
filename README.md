@@ -8,9 +8,8 @@
   
 - 💞️ I’m not looking to collaborate yet, my skills need to asscend to industry standard.
  
-- 📫 I’m @DWalganus retweets all the good piece tips and tricks from master hacker.
-- I know that I know nothing-
-- Socratic Paradox
+- 📫 I’m will retweets all the good piece tips and tricks from master hacker.
+- I know that I know nothing-[socratic_paradox]
 
 
 <!---
