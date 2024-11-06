@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m @DWalganus!<br>🔭 I’m not looking to collaborate yet, my skills need to asscend to industry standard.<br>👯 but if I need to collaborate, it will be on cybersecurity stuffs and coding EA<br>🤝 I’m looking for help with ##not-now##<br>🌱 Cutivating many hours for skills because of 2 security;<br><br>    i. Cybersecurity<br>    ii. Living Security (Roof, Food, Bills, Survive stuffs)<br><br>💬 Ask me about - If you feel asking away for something in commonn<br>⚡ I know that I know nothing-[socratic_paradox]
+Hi, I’m @DWalganus!<br>🔭 I’m not looking to collaborate yet, my skills need to asscend to industry standard.<br>👯 but if I need to collaborate, it will be on cybersecurity stuffs and coding EA<br>🤝 I’m looking for help with ##not-now##<br>🌱 Cutivating many hours for skills because of 2 security;<br><br>    i. Cybersecurity<br>    ii. Living Security (Roof, Food, Bills, Survive stuffs)<br><br>💬 Ask me about - If you feel asking away for something in common<br>⚡ I know that I know nothing-[socratic_paradox]
 
 
 ## 🌐 Socials:
