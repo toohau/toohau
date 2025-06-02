@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Gene De Berry Simbaku!<br>🔭 Spot search irregularity in form of knowledge from alternate point of view.<br>👯 We secure the algorithms by making it easy and simple to understand.<br>🤝 I’m looking for help with ##not-now##<br>🌱 Cutivating many hours for skills because of 2 security;<br><br>    i. Cybersecurity(IAM, RBAC, Defense-in-depth, OSINT)<br>    ii. Living Security (Roof, Food, Bills, Survive stuffs)<br><br>💬 Ask me about cybersecurity and we can be friend<br>⚡ I know that I know nothing-[socratic_paradox]
+Hi, I’m Gene De Berry Simbaku!<br>🔭 Search the unknown in form of knowledge from alternate point of view .<br>👯 We secure the algorithms by making it easy and simple to understand.<br>🤝 I’m looking for help with SOC, security-analyst or cybersecurity in general<br>🌱 Cutivating many hours for skills because of 2 security;<br><br>    i. Cybersecurity(IAM, RBAC, Defense-in-depth, OSINT)<br>    ii. Living Security (Roof, Food, Bills, Survive stuffs)<br><br>💬 Ask me about cybersecurity and we can be friend<br>⚡ I know that I know nothing-[socratic_paradox]
 
 
 ## 🌐 Socials:
