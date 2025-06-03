@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I’m <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="gdb-simbaku" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://my.linkedin.com/in/gdb-simbaku?trk=profile-badge">Gene De Berry Simbaku</a></div>
-              <br>🔭 My cybersecurity-portfolio still progress. Please be patience.<br> <br>👯 We secure the algorithms by making it easy and simple to understand.<br>🤝 I’m looking for help with SOC, security-analyst or cybersecurity in general<br>🌱 Cutivating many hours for skills because of 2 security;<br><br>    i. Cybersecurity(IAM, RBAC, Defense-in-depth, OSINT)<br>    ii. Living Security (Roof, Food, Bills, Survive stuffs)<br><br>💬 Ask me about cybersecurity and we can be friend<br>⚡ I know that I know nothing-[socratic_paradox]
+              <br>🔭Thank you for visiting my profile, feel free to reach out.<br> <br>👯 We secure the algorithms by making it easy and simple to understand.<br>🤝 I’m looking for help with SOC, security-analyst or cybersecurity in general<br>🌱 Cutivating many hours for skills because of 2 security;<br><br>    i. Cybersecurity(IAM, RBAC, Defense-in-depth, OSINT)<br>    ii. Living Security (Roof, Food, Bills, Survive stuffs)<br><br>💬 Ask me about cybersecurity and we can be friend<br>⚡ I know that I know nothing-[socratic_paradox]
 
 
 ## 🌐 Socials:
