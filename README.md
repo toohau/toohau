@@ -4,7 +4,7 @@ Hi, I’m <div class="badge-base LI-profile-badge" data-locale="en_US" data-size
 
 
 ## 🌐 Socials:
-[![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/gene-de-berry-simbaku-853385369/) 
+[![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/gdb-simbaku/) 
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](https://www.coursera.org/user/8b35896687894f573462f5d34ae5c1da)
 [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](https://www.notion.so/Resume-ff1a2752854f4e3d9fa4ec01ef3ff1c4)
 # 💻 Tech Stack:
